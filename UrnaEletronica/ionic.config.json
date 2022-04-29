@@ -1,7 +1,0 @@
-{
-  "name": "UrnaEletronica",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
